@@ -5,7 +5,7 @@
 ### Data Analyst Nanodegree Projects
 
 ---
-[Data Story Telling](/write_up)
+[Data Story Telling](/write_up.md)
 <img src="Images/project_1.png?raw=true"/>
 ---
 [Wrangle and Analyse We Rate Dogs Data ](/pdf/act_report.pdf)
