@@ -4,6 +4,7 @@
 
 ### Data Analyst Nanodegree Projects
 
+---
 [Data Story Telling]( /write up)
 <img src="Images/project_1.png?raw=true"/>
 
