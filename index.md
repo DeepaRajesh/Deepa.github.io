@@ -11,12 +11,12 @@
 [Wrangle and Analyse We Rate Dogs Data ](/pdf/act_report.pdf)
 <img src="Images/Wrangle.png?raw=true"/>
 ---
-[Exploratory Data Analysis on RedWine Data using R](eda_r.pdf)
+[Exploratory Data Analysis on RedWine Data using R](/pdf/eda_r.pdf)
 <img src="Images/EDA_r.jpg?raw=true"/>
 
 ---
 
-[Test a Perceptual phenomenon: Analyzing the Stroop Effect](stroop.pdf)
+[Test a Perceptual phenomenon: Analyzing the Stroop Effect](/pdf/stroop.pdf)
 <img src="Images/stroop-test-2.jpg?raw=true"/>
 
 ---
