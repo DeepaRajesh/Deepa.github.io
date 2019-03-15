@@ -6,4 +6,4 @@ description: > # your text below (remove <br> elements if you don't need line br
  I am a self-taught data scientist eager to use my academic experience to support the next major revolution in data analysis.
   <br><br>
   <a href="https://www.linkedin.com/in/deepa-sobhana-devi/">View My LinkedIn Profile</a> 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
