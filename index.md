@@ -5,21 +5,17 @@
 ### Data Analyst Nanodegree Projects
 
 ---
-[Data Story Telling]( /write up)
+[Data Story Telling](/write up)
 <img src="Images/project_1.png?raw=true"/>
-
 ---
 [Wrangle and Analyse We Rate Dogs Data ](/pdf/act_report.pdf)
 <img src="Images/Wrangle.png?raw=true"/>
 ---
 [Exploratory Data Analysis on RedWine Data using R](/pdf/eda_r.pdf)
 <img src="Images/EDA_r.jpg?raw=true"/>
-
 ---
-
 [Test a Perceptual phenomenon: Analyzing the Stroop Effect](/pdf/stroop.pdf)
 <img src="Images/stroop-test-2.jpg?raw=true"/>
-
 ---
 ### Category Name 2
 
