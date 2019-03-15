@@ -17,13 +17,4 @@
 [Test a Perceptual phenomenon: Analyzing the Stroop Effect](/pdf/stroop.pdf)
 <img src="Images/stroop-test-2.jpg?raw=true"/>
 ---
-[Analyze A/B Test Results: e-commerce website](/Analyze_ab_test_results_notebook.html)
-<img src="Images/AB-Testing.jpg?raw=true"/>
----
-### DataScience project
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
