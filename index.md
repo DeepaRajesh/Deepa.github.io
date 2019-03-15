@@ -5,7 +5,7 @@
 ### Data Analyst Nanodegree Projects
 
 ---
-[Data Story Telling](/write up)
+[Data Story Telling](/write_up)
 <img src="Images/project_1.png?raw=true"/>
 ---
 [Wrangle and Analyse We Rate Dogs Data ](/pdf/act_report.pdf)
@@ -17,7 +17,7 @@
 [Test a Perceptual phenomenon: Analyzing the Stroop Effect](/pdf/stroop.pdf)
 <img src="Images/stroop-test-2.jpg?raw=true"/>
 ---
-### Category Name 2
+### DataScience project
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
