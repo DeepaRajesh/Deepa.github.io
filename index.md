@@ -17,6 +17,6 @@
 [Test a Perceptual phenomenon: Analyzing the Stroop Effect](/pdf/stroop.pdf)
 <img src="Images/stroop-test-2.jpg?raw=true"/>
 ---
-[Exploring weather Trends](/pdf/EXPLORE WEATHER TRENDS -Project-1.pdf)
+[Exploring weather Trends](/pdf/eda_python.pdf)
 <img src="Images/eda_python.jpg?raw=true"/>
 ---
