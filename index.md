@@ -16,7 +16,7 @@
 
 ---
 
-[Exploratory Data Analysis on RedWine Data using R](stroop.pdf)
+[Test a Perceptual phenomenon: Analyzing the Stroop Effect](stroop.pdf)
 <img src="Images/stroop-test-2.jpg?raw=true"/>
 
 ---
