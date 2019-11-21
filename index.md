@@ -4,8 +4,6 @@
 
 ### Sample Works
 ---
-[Job Task Analysis for Content collection from Twitter](/pdf/JTA_Deepa.pdf)
------
 [Content Collection from Social Media Channels](/Content Collection -Deepa.html)
 ---
 [Investigate a dataset of wine samples using python](/pdf/Investigate a dataset on wine quality using Python.pdf)
