@@ -4,9 +4,10 @@
 
 ### Sample Works
 ---
-[Content Collection from Social Media Channels](/Content Collection -Deepa.html)
-
 [Job Task Analysis] (/pdf/JTA_Deepa.pdf)
+
+-----
+[Content Collection from Social Media Channels](/Content Collection -Deepa.html)
 
 ---
 
