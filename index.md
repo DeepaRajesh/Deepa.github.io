@@ -4,9 +4,13 @@
 
 ### Sample Works
 ---
+
 [Content Collection from Social Media Channels](/Content Collection -Deepa.html)
+
 ---
+
 [Investigate a dataset of wine samples using python](/pdf/Investigate a dataset on wine quality using Python.pdf)
+----
 
 ### Data Analyst Nanodegree Projects
 
